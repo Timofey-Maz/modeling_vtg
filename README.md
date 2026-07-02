@@ -12,6 +12,7 @@
 git clone https://github.com/Timofey-Maz/modeling_vtg.git
 cd modeling_vtg
 ```
+- Установите необходимые библиотеки;
 - Запустите основной скрипт:
 ``` bash
 python PZ_2.py
